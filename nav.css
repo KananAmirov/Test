@@ -1,0 +1,74 @@
+.main
+{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+}
+
+ul
+{
+    list-style: none;
+}
+
+
+.logo
+{
+    margin-left: 80px;
+    margin-top: 30px;
+    float: left;
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    font-size: large;
+}
+
+.ser
+{
+    margin-left: 450px;
+    margin-top: 30px;
+    float: left;   
+}
+
+.pro
+{
+    margin-left: 50px;
+    margin-top: 30px;
+    float: left;
+}
+
+.abo
+{
+    margin-left: 50px;
+    margin-top: 30px;
+    float: left;
+}
+
+.con 
+{
+    width: 90px;
+    height: 30px;
+    margin-left: 450px;
+    margin-top: 25px;
+    float: left;
+    border-radius: 30px;;
+    background-color: rgb(0, 136, 170);
+    color: white;
+    text-decoration: none;
+    border: none;
+    
+}
+
+h1
+{
+    color: white;
+    text-decoration:none;
+}
+
+li
+{
+    color: white;
+    text-decoration:none;
+    list-style: none;
+}
+ul a:active{
+    text-decoration: none;
+}
